@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+#By JnuLuX
+#Email: landstar@126.com
 #递归json，输出所有的key-value，每层key用_连接
 def json_recursive(injson):
     json_rst={}
